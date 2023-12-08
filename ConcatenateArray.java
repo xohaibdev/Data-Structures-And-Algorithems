@@ -1,4 +1,4 @@
-public class ConcatenateArray {
+class ConcatenateArray {
     public static int[] getConcatenation(int[] nums) {
         int n = nums.length;
         int[] ans = new int[2 * n];
@@ -21,5 +21,3 @@ public class ConcatenateArray {
         }
     }
 }
-
-//git
